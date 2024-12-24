@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Ene J. Ojaide a Data Scientist and a Tech enthusiast who is highly passionate about solving problems through data.
-- 👀 I’m interested in a permanent role with a company that needs my skills in Data Analytics, Data Science and Machine Learning as well as gives me the opportunity to learn and grow my passion for solving problems
-- 🌱 I can work with Excel, SQL, R, Python and C#
-- 💞️ I’m looking to collaborate on projects on Data Analytics, Data Science and Machine Learning
-- 📫 Reach me on eneojaide@gmail.com
-
+- 👋 Hi, I’m Ene Ojaide, a Data Scientist passionate about solving complex problems through advanced analytics and MLOps practices. I specialise in leveraging cutting-edge technologies to deliver impactful insights and optimise workflows.
+- 👀 I’m seeking a permanent role where I can apply my skills in Data Analytics, Data Science, and Machine Learning while continuing to learn and grow my expertise in solving real-world challenges.
+- 🌱 Proficient in Excel, SQL, R, and Python, I have extensive experience with cloud platforms for developing scalable data pipelines. I also excel in creating impactful visualisations using Tableau, Power BI, and Looker Studio to drive data-informed decisions.
+- 📫 Reach me at: eneojaide@gmail.com
 <!---
 enniej/enniej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
