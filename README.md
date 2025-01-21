@@ -34,7 +34,7 @@ I'm a Data Scientist passionate about solving complex problems through advanced 
 - Performing advanced statistical analysis
 - Implementing deep learning solutions
 - Building scalable ETL pipelines
-- Designing cloud-native data architectures
+- Performing comprehensive data analysis and insights generation
 - Automating ML workflows
 - Creating real-time data visualization solutions
 - Implementing ML model monitoring and maintenance
