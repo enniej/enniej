@@ -25,21 +25,16 @@ I'm a Data Scientist passionate about solving complex problems through advanced 
 - **Data Warehousing:** Snowflake, BigQuery, AWS Redshift
 
 ### Business Intelligence & Visualization
-- **Tools:** Tableau, Power BI, Looker Studio, AWS QuickSight
+- **Tools:** Tableau, Power BI, Looker Studio, Excel
 - **Dashboard Design:** Interactive Reporting, KPI Monitoring
 - **Data Storytelling:** Strategic Insights Communication
 
 ## 🔭 Current Focus
-### Machine Learning & Analytics
 - Developing predictive models for business outcomes
 - Performing advanced statistical analysis
 - Implementing deep learning solutions
-
-### Data Engineering
 - Building scalable ETL pipelines
 - Designing cloud-native data architectures
-
-### MLOps & Visualization
 - Automating ML workflows
 - Creating real-time data visualization solutions
 - Implementing ML model monitoring and maintenance
