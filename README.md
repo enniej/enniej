@@ -5,10 +5,9 @@ I'm a Data Scientist passionate about solving complex problems through advanced 
 
 ## 🛠️ Technical Skills
 
-### Data Science & Analytics
-### Data Engineering & MLOps
-### Business Intelligence & Visualization
-
+* Data Science & Analytics
+* Data Engineering & MLOps
+* Business Intelligence & Visualization
 
 ## 🔭 Core Competencies
 * Developing predictive models for business outcomes
