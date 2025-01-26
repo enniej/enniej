@@ -6,22 +6,9 @@ I'm a Data Scientist passionate about solving complex problems through advanced 
 ## 🛠️ Technical Skills
 
 ### Data Science & Analytics
-* **Languages:** Python, R, SQL
-* **Statistical Analysis:** Hypothesis Testing, A/B Testing, Regression Analysis
-* **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Keras
-* **Deep Learning:** Neural Networks, CNNs, RNNs
-
 ### Data Engineering & MLOps
-* **Cloud Platforms:** GCP, Azure, AWS
-* **Orchestration:** Apache Airflow, AWS Step Functions
-* **ML Lifecycle Management:** MLflow (Experiment Tracking, Model Registry, Deployment)
-* **Containerization:** Docker, Kubernetes
-* **Version Control:** Git, GitHub, GitLab
-* **ETL/Processing:** Apache Spark, Talend, dbt, AWS Glue
-* **Data Warehousing:** Snowflake, BigQuery, AWS Redshift
-
 ### Business Intelligence & Visualization
-* **Tools:** Tableau, Power BI, Looker Studio, Excel
+
 
 ## 🔭 Core Competencies
 * Developing predictive models for business outcomes
