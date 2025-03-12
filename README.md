@@ -22,7 +22,7 @@ I'm a Data Scientist passionate about solving complex problems through advanced 
 ## 📫 Let's Connect!
 * 📧 Email: eneojaide@gmail.com
 * 💼 [LinkedIn](https://www.linkedin.com/in/ene-ojaide)
-* 🌐 Portfolio - Coming Soon!
+* 🌐 [Portfolio](https://enniej.github.io/DataCrafted.io/)
 
 ---
 *"Data is not just numbers; it's the story of our decisions and their impacts."*
